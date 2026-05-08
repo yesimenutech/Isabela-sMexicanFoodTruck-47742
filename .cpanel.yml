@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/afd35kswj0io/public_html/isabelasmexicanfoodtruck.online/
+    - /bin/cp -R . $DEPLOYPATH
